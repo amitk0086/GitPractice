@@ -29,6 +29,9 @@ public class NonZero {
 
         }
         System.out.println(Arrays.toString(arr));
+        System.out.println("My Name is Amit");
+
+
 
     }
 

@@ -22,6 +22,6 @@ public class SecondMaxfromAnArray {
         }
 
         System.out.print(secondmax);
-
+        System.out.println("My Name is Kumar");
     }
 }
